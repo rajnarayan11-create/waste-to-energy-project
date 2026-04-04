@@ -29,4 +29,4 @@ The waste is processed in a chamber where heat energy is generated. This energy 
 - Eco-friendly systems
 
 ## 👨‍🎓 Author
-Your Name
+  Raj Narayan Gaur 
